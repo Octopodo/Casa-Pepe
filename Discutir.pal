@@ -1,0 +1,11 @@
+def Discutir(ChristoferNolan, Política)
+{
+  if Política != null:
+    return
+    
+  if ChristoferNolan ==null:
+    return
+    
+  else:
+    return CP.getDate(new File(dates.txt))
+}
